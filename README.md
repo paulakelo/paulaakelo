@@ -1,12 +1,12 @@
-<!---
+I <!---
 paula-dot/paula-dot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
 # Paul Akelo
-**Software Engineer | GIS Analyst | Backend Engineer | Data Scientist**
+**Software Engineer | Backend Engineer | Data Engineer**
 
-I build software that turns complex data into actionable insights. My work spans geospatial technology, backend engineering, and data science—ranging from mapping land-use change and social inequality to designing APIs that make (Kenyan) administrative datasets accessible to all.
+I build software that turns complex data into actionable insights. My work spans backend and data engineering. I'm currently cultivating my interest in cartography.
 
 
 ## 🛠️ Technical Arsenal
